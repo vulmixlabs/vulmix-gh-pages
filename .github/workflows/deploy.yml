@@ -15,7 +15,7 @@ jobs:
           yarn install
           yarn run build
 
-      - name: Deploy 🚀
+      - name: Deplooy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _dist/vulmix-gh-pages
