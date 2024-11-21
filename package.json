@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "vulmix-app",
+  "name": "vulmix-gh-pages",
   "scripts": {
     "prepare": "vulxi prepare",
     "dev": "vulxi dev",
