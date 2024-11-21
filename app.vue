@@ -10,7 +10,7 @@
         width: '100px',
         height: '100px',
       }"
-    ></div>
+    />
 
     <div
       :style="{
@@ -19,8 +19,8 @@
         width: '100px',
         height: '100px',
       }"
-    ></div>
+    />
 
-    <div>TEEEEEEEEEEEEEEEEEEXT</div>
+    <div>TEXT</div>
   </div>
 </template>
