@@ -21,4 +21,4 @@ jobs:
       - name: Deplooy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: _dist/vulmix-gh-pages
+          folder: _dist/${{ github.event.repository.name }}
